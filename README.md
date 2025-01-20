@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# use data.json file inside the input folder as input 
+
+input/data.json
+
 ## Available Scripts
 
 In the project directory, you can run:
